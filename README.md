@@ -1,1 +1,1 @@
-# Pan-generator.
+# Pan-genera
