@@ -1,1 +1,1 @@
-# Pan-genretor-
+# Pan-gen
